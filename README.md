@@ -26,7 +26,7 @@
 ## Getting Started
 
 ```bash
-git clone https://github.com/muntashirarmansameen/BazarDor
+git clone https://github.com/muntashirarmansameen/BazarDor 
 cd bazardor
 npm install
 npm run dev
